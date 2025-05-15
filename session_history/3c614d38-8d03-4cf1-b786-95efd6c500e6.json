@@ -1,0 +1,1 @@
+[{"role": "user", "message": "Is this a content or summary of the content research?"}, {"role": "assistant", "message": "This is a summary of the content research.  To get the actual content, I need to use the `content_creation_tool`.  What kind of content would you like (post or article) and what is the topic?"}]

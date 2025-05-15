@@ -1,0 +1,8 @@
+# Replace with your hash
+credentials:
+  usernames:
+    testuser:
+      email: test@example.com
+      name: Test User
+      password: '$2b$12$3b8XhbIK8Rm/hPzfdLMbteU2YuOuZT7p4l3UY5fB7ZZwk/sIu1U7m'  # "test123" hashed
+
